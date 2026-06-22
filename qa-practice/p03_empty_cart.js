@@ -12,3 +12,4 @@ if (cartCount > 0) {
     console.log("invalid count");
 }
 
+// mirrors smoke checks for purchase flow responses

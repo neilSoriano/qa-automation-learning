@@ -5,3 +5,5 @@ const lastName = "Soriano";
 
 const fullName = firstName + " " + lastName;
 console.log(fullName);
+
+// useful when generating readable logs and report labels
